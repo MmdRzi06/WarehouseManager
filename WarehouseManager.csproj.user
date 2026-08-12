@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Microsoft Visual Studio\source\repos\CSProjects\WarehouseManager\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="FormAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddAIOCooler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddAirCooler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddCase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddCaseFan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddCPU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddGraphicsCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddHDD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddMotherboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddNVMeSSD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddPSU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddRAMKit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddSataSSD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddThermalPad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAddThermalPaste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormCart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormChangeUsername.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyAIOCooler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyAirCooler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyBenchmarkInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyCase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyCaseFan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyCPU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyGeneralInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyGraphicsCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyHDD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyMotherboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyNVMeSSD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyPSU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyRAMKit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifySataSSD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyThermalPad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormModifyThermalPaste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOrderSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
