@@ -17,5 +17,10 @@ A Windows Forms application built using Visual Studio, intended as a learning pr
 - Event-Driven Programming
 - UI/UX Design
 - JSON Serialization
+## Note
+The default admin credentials are:
+
+- **Username:** `admin`
+- **Password:** `12345678`
 ## Credits
 Icons from [Vecteezy](https://www.vecteezy.com/), used under the Vecteezy Free License.
