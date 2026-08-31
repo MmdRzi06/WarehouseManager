@@ -1,7 +1,7 @@
 # WarehouseManager
 A Windows Forms application built using Visual Studio, intended as a learning project with a focus on OOP.
 ## Overview
-**WarehouseManager** simulates the core operations of an online shopping and warehouse management system.Customers can create accounts, browse available products, and place orders.
+**WarehouseManager** simulates the core operations of an online shopping and warehouse management system. Customers can create accounts, browse available products, and place orders.
 ## Features
 - Inventory management
 - Customer account creation and login
