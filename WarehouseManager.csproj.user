@@ -4,118 +4,118 @@
     <_LastSelectedProfileId>D:\Microsoft Visual Studio\source\repos\CSProjects\WarehouseManager\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Update="FormAccount.cs">
+    <Compile Update="src\FormAccount.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddAIOCooler.cs">
+    <Compile Update="src\FormAddAIOCooler.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddAirCooler.cs">
+    <Compile Update="src\FormAddAirCooler.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddCase.cs">
+    <Compile Update="src\FormAddCase.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddCaseFan.cs">
+    <Compile Update="src\FormAddCaseFan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddCPU.cs">
+    <Compile Update="src\FormAddCPU.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddGraphicsCard.cs">
+    <Compile Update="src\FormAddGraphicsCard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddHDD.cs">
+    <Compile Update="src\FormAddHDD.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddMotherboard.cs">
+    <Compile Update="src\FormAddMotherboard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddNVMeSSD.cs">
+    <Compile Update="src\FormAddNVMeSSD.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddPSU.cs">
+    <Compile Update="src\FormAddPSU.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddRAMKit.cs">
+    <Compile Update="src\FormAddRAMKit.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddSataSSD.cs">
+    <Compile Update="src\FormAddSataSSD.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddThermalPad.cs">
+    <Compile Update="src\FormAddThermalPad.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAddThermalPaste.cs">
+    <Compile Update="src\FormAddThermalPaste.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormCart.cs">
+    <Compile Update="src\FormCart.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormChangePassword.cs">
+    <Compile Update="src\FormChangePassword.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormChangeUsername.cs">
+    <Compile Update="src\FormChangeUsername.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormLogin.cs">
+    <Compile Update="src\FormLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormMain.cs">
+    <Compile Update="src\FormMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyAIOCooler.cs">
+    <Compile Update="src\FormModifyAIOCooler.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyAirCooler.cs">
+    <Compile Update="src\FormModifyAirCooler.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyBenchmarkInfo.cs">
+    <Compile Update="src\FormModifyBenchmarkInfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyCase.cs">
+    <Compile Update="src\FormModifyCase.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyCaseFan.cs">
+    <Compile Update="src\FormModifyCaseFan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyCPU.cs">
+    <Compile Update="src\FormModifyCPU.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyGeneralInfo.cs">
+    <Compile Update="src\FormModifyGeneralInfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyGraphicsCard.cs">
+    <Compile Update="src\FormModifyGraphicsCard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyHDD.cs">
+    <Compile Update="src\FormModifyHDD.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyMotherboard.cs">
+    <Compile Update="src\FormModifyMotherboard.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyNVMeSSD.cs">
+    <Compile Update="src\FormModifyNVMeSSD.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyPSU.cs">
+    <Compile Update="src\FormModifyPSU.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyRAMKit.cs">
+    <Compile Update="src\FormModifyRAMKit.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifySataSSD.cs">
+    <Compile Update="src\FormModifySataSSD.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyThermalPad.cs">
+    <Compile Update="src\FormModifyThermalPad.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormModifyThermalPaste.cs">
+    <Compile Update="src\FormModifyThermalPaste.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormOrders.cs">
+    <Compile Update="src\FormOrders.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormOrderSummary.cs">
+    <Compile Update="src\FormOrderSummary.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
